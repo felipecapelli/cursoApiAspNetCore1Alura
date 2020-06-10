@@ -1,0 +1,9 @@
+C:\Users\felip\Desktop\CURSOS ALURA\API_ASP_CORE_1_Alura\Alura.WebAPI\Alura.WebAPI.Seguranca\bin\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.deps.json
+C:\Users\felip\Desktop\CURSOS ALURA\API_ASP_CORE_1_Alura\Alura.WebAPI\Alura.WebAPI.Seguranca\bin\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.dll
+C:\Users\felip\Desktop\CURSOS ALURA\API_ASP_CORE_1_Alura\Alura.WebAPI\Alura.WebAPI.Seguranca\bin\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.pdb
+C:\Users\felip\Desktop\CURSOS ALURA\API_ASP_CORE_1_Alura\Alura.WebAPI\Alura.WebAPI.Seguranca\obj\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.csprojAssemblyReference.cache
+C:\Users\felip\Desktop\CURSOS ALURA\API_ASP_CORE_1_Alura\Alura.WebAPI\Alura.WebAPI.Seguranca\obj\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\CURSOS ALURA\API_ASP_CORE_1_Alura\Alura.WebAPI\Alura.WebAPI.Seguranca\obj\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.AssemblyInfo.cs
+C:\Users\felip\Desktop\CURSOS ALURA\API_ASP_CORE_1_Alura\Alura.WebAPI\Alura.WebAPI.Seguranca\obj\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\CURSOS ALURA\API_ASP_CORE_1_Alura\Alura.WebAPI\Alura.WebAPI.Seguranca\obj\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.dll
+C:\Users\felip\Desktop\CURSOS ALURA\API_ASP_CORE_1_Alura\Alura.WebAPI\Alura.WebAPI.Seguranca\obj\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.pdb
