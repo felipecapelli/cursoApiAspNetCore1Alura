@@ -1,0 +1,3 @@
+Para usar o formato xml: (no gerenciador no nuget, buscar a seguinte dependência)
+Microsoft.AsNetCore.Mvc.Formatters.Xml
+(para testar, entra no PostMan e mandar a requisição com o cabeçalho: Accept -> application/xml (ou text/xml)

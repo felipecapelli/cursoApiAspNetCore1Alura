@@ -18,7 +18,6 @@ C:\Users\felip\Desktop\CURSOS ALURA\API_ASP_CORE_1_Alura\Alura.WebAPI\Alura.WebA
 C:\Users\felip\Desktop\CURSOS ALURA\API_ASP_CORE_1_Alura\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.csprojAssemblyReference.cache
 C:\Users\felip\Desktop\CURSOS ALURA\API_ASP_CORE_1_Alura\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.AssemblyInfoInputs.cache
 C:\Users\felip\Desktop\CURSOS ALURA\API_ASP_CORE_1_Alura\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.AssemblyInfo.cs
-C:\Users\felip\Desktop\CURSOS ALURA\API_ASP_CORE_1_Alura\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.csproj.CoreCompileInputs.cache
 C:\Users\felip\Desktop\CURSOS ALURA\API_ASP_CORE_1_Alura\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.RazorAssemblyInfo.cache
 C:\Users\felip\Desktop\CURSOS ALURA\API_ASP_CORE_1_Alura\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.RazorAssemblyInfo.cs
 C:\Users\felip\Desktop\CURSOS ALURA\API_ASP_CORE_1_Alura\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.TagHelpers.input.cache
@@ -40,3 +39,4 @@ C:\Users\felip\Desktop\CURSOS ALURA\API_ASP_CORE_1_Alura\Alura.WebAPI\Alura.WebA
 C:\Users\felip\Desktop\CURSOS ALURA\API_ASP_CORE_1_Alura\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.dll
 C:\Users\felip\Desktop\CURSOS ALURA\API_ASP_CORE_1_Alura\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.pdb
 C:\Users\felip\Desktop\CURSOS ALURA\API_ASP_CORE_1_Alura\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.genruntimeconfig.cache
+C:\Users\felip\Desktop\CURSOS ALURA\API_ASP_CORE_1_Alura\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.csproj.CoreCompileInputs.cache

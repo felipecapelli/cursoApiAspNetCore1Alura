@@ -76,12 +76,12 @@ using Alura.ListaLeitura.WebApp.Models;
             WriteLiteral("<!DOCTYPE html>\r\n<html lang=\"pt-br\">\r\n");
             EndContext();
             BeginContext(38, 292, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0048b1aeb6c947c2b1a2856e97f6d0a7", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "247e47ae573b4af6888bb9078cb73689", async() => {
                 BeginContext(44, 151, true);
                 WriteLiteral("\r\n    <meta charset=\"utf-8\" />\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\r\n    <title>Lista de Leitura</title>\r\n    ");
                 EndContext();
                 BeginContext(195, 71, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "426f8f57677a4b438eccc7d5f4e6f6ca", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "a23244e6298b4d6dbd5ea81c8e2b6ab8", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -100,7 +100,7 @@ using Alura.ListaLeitura.WebApp.Models;
                 WriteLiteral("\r\n    ");
                 EndContext();
                 BeginContext(272, 49, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c0574ddcbd364eb7b6e271d85ff2094a", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "e9bee86740aa4cb9abab5c566173dedc", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -134,17 +134,17 @@ using Alura.ListaLeitura.WebApp.Models;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(332, 818, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1c43ec50a6d84855a45be7e774c0e79f", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8f9eafdbe97b43e3816b4e61a49be879", async() => {
                 BeginContext(391, 60, true);
                 WriteLiteral("\r\n\r\n    <nav class=\"nav navbar bg-dark fixed-top\">\r\n        ");
                 EndContext();
                 BeginContext(451, 162, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0591b6810f114024b24333071a131344", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4c2122b40d6d4efca39f15d670f1f70d", async() => {
                     BeginContext(516, 14, true);
                     WriteLiteral("\r\n            ");
                     EndContext();
                     BeginContext(530, 69, false);
-                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "1dd33a34ff77401d87bbd42be87bf354", async() => {
+                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "a305de0e10404b9ab896eae05afc4245", async() => {
                     }
                     );
                     __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -193,7 +193,7 @@ using Alura.ListaLeitura.WebApp.Models;
                 WriteLiteral("\r\n    </div>\r\n\r\n    <footer class=\"bg-dark text-center text-white\">\r\n        <p class=\"my-0\">Casa do Código &copy; 2018</p>\r\n    </footer>\r\n\r\n    ");
                 EndContext();
                 BeginContext(843, 51, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "97ec16f4bbee413580d183c639cac838", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "22d000b48a8e4174a1f930c17735f091", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -211,7 +211,7 @@ using Alura.ListaLeitura.WebApp.Models;
                 WriteLiteral("\r\n    ");
                 EndContext();
                 BeginContext(900, 60, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b1b9991faace4df2801fc3eb173a1a04", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "00b6605b664c470ead840761e5f681b9", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -229,7 +229,7 @@ using Alura.ListaLeitura.WebApp.Models;
                 WriteLiteral("\r\n    ");
                 EndContext();
                 BeginContext(966, 57, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0295934e301e40fe9c2d529d2001fad7", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "607df033bf074c3da67fad777f8ac275", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -247,7 +247,7 @@ using Alura.ListaLeitura.WebApp.Models;
                 WriteLiteral("\r\n    ");
                 EndContext();
                 BeginContext(1029, 62, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "76fa88c6a14a4fb38bf8492f366f97c0", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6d59030b34d34f32bb60338fe6304199", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
