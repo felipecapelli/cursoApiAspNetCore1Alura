@@ -1,3 +1,21 @@
 Para usar o formato xml: (no gerenciador no nuget, buscar a seguinte dependência)
 Microsoft.AsNetCore.Mvc.Formatters.Xml
 (para testar, entra no PostMan e mandar a requisição com o cabeçalho: Accept -> application/xml (ou text/xml)
+
+JWT (Responsável pelo Token)
+System.IdentityModel.Tokens.Jwt
+Microsoft.AspNetCore.Authentication.JwtBearer
+
+Ao criar o serviço de Login, para rodar como standAlone, pelo terminal:
+Selecionar o AuthPrivider no menu superior no select apos o any CPU;
+Selecionar o AuthPrivider no lucar do IIS Express no outro select;
+Clicar sobre o projeto Auth e ir em propriedades;
+Na janela que abrir clicar em Depurar o menu lateral;
+Tirar a seleção no checkBox Iniciar Navegador;
+Depois disso é só dar F5 que a aplicação vai rodar;
+
+Para adicionar um novo arquivo appsettings.json:
+clicar no projeto;
+Adicionar -> novo item
+Digitar app no campo de pesquisa;
+Selecionar: Arquivo de Configurações do Aplicativo
